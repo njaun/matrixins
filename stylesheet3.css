@@ -1,0 +1,7 @@
+body { background-image: url("https://img.freepik.com/free-photo/fire-flames-black-background_158595-4100.jpg?t=st=1738942706~exp=1738946306~hmac=ae113380599e6e24d5e103fe14f6b7f94e6d5d02ce014cc9e7114fcc4e62bf58&w=1380");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+    .txt {color:white; text-align: center; font-weight: bold; background-color: black;}
+    .hyperlink {color:red; font: 1.5rem small-caps "Fira Sans", sans-serif; background-color: black;}
+    .virsr {color:white; text-align: center; font-weight: bold; background-color: black; font-size: 40px;}

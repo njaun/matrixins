@@ -1,0 +1,9 @@
+.row {border:1px solid white;
+}
+body { background-image: url("https://imgs.search.brave.com/BwD-_uy4ELZBLJ-ih1aCgKpmqk8gIL-EqfCpufcgR3g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhREY1Ylc1a05u/RjZObXhxYVhsaGRt/NDFiM0J5Tm1jNWNY/VjVNR2htYm5wNFpq/SnNaREZuT0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vbDN2Um5vcHBZ/dGZFYmVtQk8vZ2lw/aHkuZ2lm.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.txt {color:white; text-align: center; font-weight: bold; background-color: black;}
+.hyperlink {color:red; font: 1.5rem small-caps "Fira Sans", sans-serif; background-color: black;}
